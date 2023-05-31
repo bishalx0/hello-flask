@@ -1,0 +1,5 @@
+.git
+venv
+Dockerfile
+README.md
+__pycache__
